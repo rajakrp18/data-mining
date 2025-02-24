@@ -55,4 +55,4 @@ The dataset contains employee-related features such as:
 ## 🏆 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Employee-Attrition-Analysis.git
+   git clone https://github.com/rajakrp18/data-mining.git
